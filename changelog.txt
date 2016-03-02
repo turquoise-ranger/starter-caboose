@@ -1,0 +1,5 @@
+Date and Time              Change detail
+   
+Mar 01, 2016   [4:13pm]    Step 2. Load css and javascript using caboose.   - Vivek
+Mar 01, 2016   [4:05pm]    Step 1. Enable hook.                             - Gabriel
+
